@@ -1,5 +1,6 @@
 #!/bin/bash
-
+#if
+#condition
 lscpu
 cat /etc/*release
 nproc
