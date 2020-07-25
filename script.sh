@@ -1,5 +1,5 @@
 #!/bin/bash
-
+#from India
 if 
   [ $UID -ne 0 ]
 then
@@ -11,3 +11,4 @@ cat /etc/*release
 nproc
 lsblk
 echo "done"
+echo "sucess"
